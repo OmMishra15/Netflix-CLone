@@ -1,4 +1,4 @@
-# 🎬 Netflix India Clone
+# 🎬 Netflix Clone
 
 A responsive front-end recreation of the Netflix India landing page built for learning semantic HTML5 layouts, modern CSS styling techniques, and advanced layout structures.
 
@@ -46,6 +46,5 @@ cd Netflix-CLone
 Because this is a pure frontend project built entirely on static web tools, you do not need to install heavy backend servers or build configurations. You can run it instantly:
 
 * **Method A (VS Code Live Server):** Open the project workspace folder in Visual Studio Code, right-click `Index.html`, and select **Open with Live Server** to view changes live as you edit code.
-
 
 * **Method B (Direct Local Launch):** Locate the project folder on your computer directory and double-click `Index.html` to run it automatically inside your preferred web browser (Chrome, Safari, Firefox, Edge).
